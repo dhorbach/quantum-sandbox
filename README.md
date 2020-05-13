@@ -1,9 +1,13 @@
 # Quantum Algorithms
 
-## Arithmetic
+## Arithmetic Operations
 
 [Half Adder](./arithmetic/halfadder.ipynb)
 
-## Amplitude
+## Amplitude Amplification
 
-[Grover](./amplitude/grover.ipynb)
+[Grover Search](./amplitude/grover.ipynb)
+
+## Teleportation
+
+[Teleportation](./teleportation/teleportation.ipynb)
