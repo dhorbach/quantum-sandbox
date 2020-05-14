@@ -1,13 +1,14 @@
 # Quantum Algorithms
 
 ## Arithmetic Operations
-
-[Half Adder](./arithmetic/halfadder.ipynb)
+[Half Adder](arithmetic/halfadder.ipynb)
 
 ## Amplitude Amplification
+[Grover Search](amplitude/grover.ipynb)
 
-[Grover Search](./amplitude/grover.ipynb)
+## Information Transfer
+[Teleportation](informationtransfer/teleportation.ipynb)
 
-## Teleportation
+[Super Dense Coding](informationtransfer/superdensecoding.ipynb)
 
-[Teleportation](./teleportation/teleportation.ipynb)
+[Bell Inequality Test](informationtransfer/bellinequalitytest.ipynb)
